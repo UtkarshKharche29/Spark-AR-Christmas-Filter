@@ -1,5 +1,5 @@
 # RealityHACK-21 
-### This was my first experience with the Augmented reality. I built a Christmas Filter effect using Spark AR. This filter can be used on Instagram and Facebook.
+### This was my first experience with the Augmented Reality. I built a Christmas Filter effect using Spark AR. This filter can be used on Instagram and Facebook.
 
 ## About
 
